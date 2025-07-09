@@ -15,7 +15,7 @@ Automatically extract structured data from PDF documents using OpenAI's file ana
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/pdf-data-extractor.git
+git clone https://github.com/kneeraazon404/json-from-pdf-to-csv
 cd pdf-data-extractor
 ```
 
@@ -24,7 +24,7 @@ cd pdf-data-extractor
 pip install openai python-dotenv
 ```
 
-3. Add your OpenAI API key to `.env` file:
+3. Add your OpenAI API key to the `.env` file:
 ```env
 OPENAI_API_KEY=your_api_key_here
 ```
