@@ -34,7 +34,7 @@ OPENAI_API_KEY=your_api_key_here
 1. Place PDF files in the `pdfs/` directory
 2. Run the script:
 ```bash
-python /json-from-pdf-to-csv.py
+python json-from-pdf-to-csv.py
 ```
 3. Find results in `extracted_data.csv`
 
