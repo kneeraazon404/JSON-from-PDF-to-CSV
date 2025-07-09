@@ -16,7 +16,7 @@ Automatically extract structured data from PDF documents using OpenAI's file ana
 1. Clone repository:
 ```bash
 git clone https://github.com/kneeraazon404/json-from-pdf-to-csv
-cd pdf-data-extractor
+cd json-from-pdf-to-csv
 ```
 
 2. Install dependencies:
@@ -34,7 +34,7 @@ OPENAI_API_KEY=your_api_key_here
 1. Place PDF files in the `pdfs/` directory
 2. Run the script:
 ```bash
-python pdf_extractor.py
+python /json-from-pdf-to-csv.py
 ```
 3. Find results in `extracted_data.csv`
 
